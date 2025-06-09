@@ -29,6 +29,6 @@
 
 ###
 
-- 💻 [Portfólio](https://https://nubi.live/)
+- 💻 [Portfólio](https://nubi.live/)
 
 ###
